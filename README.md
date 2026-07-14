@@ -50,8 +50,6 @@ Apasionado por la **tecnología**, el **desarrollo de software** y la **programa
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vicentegm2&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicentegm2&layout=compact&theme=dark" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vicentegm2&theme=dark" alt="GitHub Streak" />
 </p>
 
